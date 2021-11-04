@@ -10,4 +10,5 @@ The dataset contains 22 features and 85,855 records. There are 4 features with t
 ### Tools: 
 Here the expected tools which will be used to build the mentioned model. 
 -	Data Processing: Numpy, Pandas. 
+-	Modle: Random Forest.
 -	Visualizations: Matpltlib.  
