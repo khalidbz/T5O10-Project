@@ -12,3 +12,5 @@ Here the expected tools which will be used to build the mentioned model.
 -	Data Processing: Numpy, Pandas. 
 -	Modle: Random Forest.
 -	Visualizations: Matpltlib.  
+
+![](Avg_Votes.png)
